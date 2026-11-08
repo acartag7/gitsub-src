@@ -1,0 +1,3 @@
+[submodule "s1"]
+	path = s1
+	url = http://imm9.meta.ghssrf.edictum.dev/metadata/instance
